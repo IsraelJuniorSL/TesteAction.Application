@@ -1,0 +1,6 @@
+D:\Projetos\Coding\TesteAction.Application\TesteAction.Application\bin\Debug\TesteAction.Application.dll
+D:\Projetos\Coding\TesteAction.Application\TesteAction.Application\bin\Debug\TesteAction.Application.pdb
+D:\Projetos\Coding\TesteAction.Application\TesteAction.Application\obj\Debug\TesteAction.Application.csproj.AssemblyReference.cache
+D:\Projetos\Coding\TesteAction.Application\TesteAction.Application\obj\Debug\TesteAction.Application.csproj.CoreCompileInputs.cache
+D:\Projetos\Coding\TesteAction.Application\TesteAction.Application\obj\Debug\TesteAction.Application.dll
+D:\Projetos\Coding\TesteAction.Application\TesteAction.Application\obj\Debug\TesteAction.Application.pdb
